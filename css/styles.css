@@ -1,0 +1,134 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: "Concert One";
+}
+
+body {
+	background-color: #100085;
+	color: #DB9AB9;
+}
+
+main {
+	display: block;
+	width: 94%;
+	margin: 0 auto;
+}
+
+img {
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+	background-color: #7ECADC;
+}
+
+#hero {
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+}
+
+nav {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+	justify-content: center;
+}
+
+nav ul {
+	list-style: none;
+	justify-content: center;
+}
+
+nav li {
+	display: inline-block;
+	font-size: 1.1em;
+	padding: 1.5%;
+	justify-content: center;
+}
+
+nav li a {
+	text-decoration: none;
+	color: #A97FAD;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+footer {
+	margin-top: 5%;
+	background-color: #AD8C06;
+	color: #05136A;
+	text-align: center;
+}
+
+table {
+	width: 80%;
+	margin: 0 auto;
+	border: solid #fff 1px;
+	border-collapse: collapse;
+	padding: 0;
+	text-align: center;
+}
+
+td {
+	padding: 10px 0;
+	text-align: center;
+	border: solid #fff 1px;
+	border-collapse: collapse;
+}
+
+label {
+	padding: 25px 0;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+input {
+	height: 1.6em;
+	width: 9.8em;
+	border-radius: 25px;
+	font-size: 1.4em;
+	font-weight: bold;
+	background-color: #8381AE;
+	color: #fff;
+	border: 5px inset #977205;
+	text-align: center;
+	padding: 0;
+}
+
+#MENACE {
+	color: #B6A05C;
+	background-color: #020058
+}
+
+.frmButton {
+	padding: 0;
+	margin: 0;
+	width: 8em;
+	height: 1.5em;
+	background-color: #619091;
+	color: #DCC522
+}
+
+blockquote {
+	
+}
+
+a:hover {
+	
+}
